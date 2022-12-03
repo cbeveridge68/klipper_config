@@ -1,3 +1,5 @@
 {
-    "sync-rsync.remote": "pi@voronpi:\\klipper_config\\"
+    "sync-rsync.remote": "pi@voronpi:klipper_config",
+    "sync-rsync.autoShowOutput": true,
+    "sync-rsync.notification": true
 }
